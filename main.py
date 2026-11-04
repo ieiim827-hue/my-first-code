@@ -4,8 +4,9 @@ def check_system():
     print(f"系统状态: {status}")
     print("准备将这段代码上传到 GitHub！")
 
-if __name__ == "__main__":git add .
+if __name__ == "__main__":
     check_system()
     print("Git 测试成功！")
     print("这是我修改的第二行代码")
     print("这是我修改的第三行代码")
+    print("这是我修改的第四行代码")
