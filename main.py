@@ -7,3 +7,4 @@ def check_system():
 if __name__ == "__main__":
     check_system()
     print("Git 测试成功！")
+    print("这是我修改的第二行代码")
